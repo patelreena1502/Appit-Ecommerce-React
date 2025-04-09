@@ -1,4 +1,4 @@
-# 🛍 Appit – Customized E-commerce Web App
+#  Appit – Customized E-commerce Web App
 
 **Appit** is a modern, feature-rich e-commerce web application built for a forward-thinking online retail business. The project focuses on delivering a fully customized shopping experience by integrating a tailored **React.js frontend** with Shopify’s backend and commerce capabilities.
 
