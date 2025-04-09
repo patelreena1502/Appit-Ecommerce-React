@@ -11,7 +11,7 @@ Unlike standard Shopify storefronts, Appit offers a fully customized interface b
 **React Developer**  
 I was responsible for designing and developing the **entire frontend architecture**, integrating it with Shopify APIs, and ensuring the UI delivers both performance and polish.
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - **Frontend**  
   - React.js  
